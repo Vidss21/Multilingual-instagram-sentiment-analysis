@@ -10,49 +10,32 @@ Objectives:
 
 1. To collect and analyze Instagram posts written in different languages
 2. To preprocess multilingual text data for analysis
-
-To apply NLP techniques for sentiment detection
-
-To classify posts into sentiment categories such as positive, negative, and neutral
+3. To apply NLP techniques for sentiment detection
+4. To classify posts into sentiment categories such as positive, negative, and neutral
 
 Technologies Used:
 
-Python
-
-Natural Language Processing (NLP)
-
-Machine Learning
-
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Matplotlib / Seaborn
+1. Python
+2. Natural Language Processing (NLP)
+3. Machine Learning
+4. Pandas
+5. NumPy
+6. Scikit-learn
+7. Matplotlib / Seaborn
 
 Project Workflow:
 
-Data Collection - Instagram posts containing multilingual text are collected for analysis.
-
-Data Preprocessing - Cleaning the text data
-
-Removing special characters and stopwords - Tokenization and normalization
-
-Feature Extraction - Converting text data into numerical features using NLP techniques.
-
-Model Training - Machine learning models are trained to classify the sentiment of posts.
-
-Sentiment Classification - The model predicts whether the sentiment of a post is positive, negative, or neutral.
-
-Result Analysis - Model performance is evaluated and analyzed.
+1. Data Collection - Instagram posts containing multilingual text are collected for analysis.
+2. Data Preprocessing - Cleaning the text data
+3. Removing special characters and stopwords - Tokenization and normalization
+4. Feature Extraction - Converting text data into numerical features using NLP techniques.
+5. Model Training - Machine learning models are trained to classify the sentiment of posts.
+6. Sentiment Classification - The model predicts whether the sentiment of a post is positive, negative, or neutral.
+7. Result Analysis - Model performance is evaluated and analyzed.
 
 Applications:
 
 Social media monitoring
-
 Brand sentiment analysis
-
 Customer opinion analysis
-
 Market research
