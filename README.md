@@ -36,9 +36,6 @@ Project Workflow:
 Applications:
 
 Social media monitoring
-
 Brand sentiment analysis
-
 Customer opinion analysis
-
 Market research
