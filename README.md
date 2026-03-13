@@ -6,11 +6,10 @@ This project focuses on performing sentiment analysis on Instagram posts written
 
 With the rapid growth of social media platforms, large volumes of user-generated content are created every day. This project demonstrates how Natural Language Processing (NLP) techniques can be used to analyze multilingual text data and extract meaningful insights from Instagram posts.
 
-Objective:
+Objectives:
 
-To collect and analyze Instagram posts written in different languages
-
-To preprocess multilingual text data for analysis
+1. To collect and analyze Instagram posts written in different languages
+2. To preprocess multilingual text data for analysis
 
 To apply NLP techniques for sentiment detection
 
